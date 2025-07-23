@@ -1,0 +1,36 @@
+*{
+    margin:auto;
+}
+
+body{
+    background-color: rgb(red, green, blue);
+    
+}
+.mother{
+    background-color: wheat;
+    height: 300px;
+    width: 200px;
+    padding: 50px;
+    
+}
+
+.logo{
+padding-left: 75px;
+}
+.photo{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: white 5px solid;
+    box-shadow: 2px 3px red;
+
+}
+#slogan{
+    padding-bottom: 5px;
+}
+.company{
+    color: cadetblue;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+    
